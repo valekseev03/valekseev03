@@ -1,4 +1,6 @@
-### Hello I am Vladimir Alekseev! Below is a list of projects I colloborated on or created myself.
+Hello, my name is Vladimir Alekseev! <br>
+Below is a small sample of the projects that I've worked on. <br>
+:)
 
 <!--
 **valekseev03/valekseev03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
