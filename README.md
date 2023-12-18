@@ -1,5 +1,5 @@
 Hello, my name is Vladimir Alekseev! <br>
-Below is a small sample of the projects that I've worked on. <br>
+Below is a small sample of the projects that I've worked on in programming classes and in my free time. <br>
 :)
 
 <!--
